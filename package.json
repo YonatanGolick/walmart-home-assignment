@@ -1,0 +1,19 @@
+{
+  "name": "walmart-home-assignment",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@node-redis/json": "^1.0.2",
+    "@types/lodash.isequal": "^4.5.8",
+    "@types/node": "^20.9.0",
+    "lodash.isequal": "^4.5.0",
+    "mongodb": "^6.2.0",
+    "redis": "^4.6.10"
+  }
+}

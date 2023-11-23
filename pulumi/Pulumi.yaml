@@ -1,0 +1,3 @@
+name: walmart-home-assignment
+runtime: nodejs
+description: This is a pulumi project for walmart home assignment
